@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaCoerator", "MetaCoerator\MetaCoerator.csproj", "{87C47467-634A-412F-B9E3-A9DADBF2E891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C47467-634A-412F-B9E3-A9DADBF2E891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C47467-634A-412F-B9E3-A9DADBF2E891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C47467-634A-412F-B9E3-A9DADBF2E891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C47467-634A-412F-B9E3-A9DADBF2E891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70E218DC-8762-41F9-B307-8B9A340DFF2A}
+	EndGlobalSection
+EndGlobal
